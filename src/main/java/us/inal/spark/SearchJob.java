@@ -22,9 +22,6 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * Created by orionasa on 24/05/17.
- */
 
 public class SearchJob {
 
