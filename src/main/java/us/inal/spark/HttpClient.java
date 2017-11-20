@@ -8,9 +8,7 @@ import org.apache.http.message.BasicNameValuePair;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by orionasa on 26/05/17.
- */
+
 public class HttpClient {
     public void post(String url, int status) {
         CloseableHttpClient client = HttpClientBuilder.create().build();
